@@ -9,4 +9,9 @@ $(document).ready(function () {
         $("#randy-button").text(randomize);
     });
 
+    $("#third-button").on("click", function () {
+        var thirdRandomiser = Math.floor(Math.random() * 1000) + 1;
+        $("#third-button").text(thirdRandomiser);
+    })
+
 });
