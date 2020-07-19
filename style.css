@@ -1,0 +1,7 @@
+html,body{
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+
+.jumbotron{
+    background-color: rgba(100, 167, 114, 0.89);
+}
