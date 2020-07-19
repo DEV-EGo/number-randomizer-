@@ -3,5 +3,9 @@ html,body{
 }
 
 .jumbotron{
-    background-color: rgba(100, 167, 114, 0.89);
+    background-color: rgba(77, 143, 137, 0.64);
+}
+
+.text-center{
+    color: white;
 }
